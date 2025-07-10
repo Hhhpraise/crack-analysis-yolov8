@@ -1,0 +1,8 @@
+path: C:\Users\HP\PycharmProjects\pythonProject\yolo
+train: images/train
+val: images/val
+test: images/test
+
+# Class names
+nc: 2
+names: ['no_crack', 'crack']
